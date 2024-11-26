@@ -1,0 +1,2 @@
+Prefix plugins/Linear/example/
+Plugin Linear inputfile parameters.txt outputfile linear.rds
